@@ -1,7 +1,7 @@
 # BunBunLand
 BunBunLand is a 2D side-scrolling platformer starring a cursed bunny who is traveling the world.
 
-
+## Play the game at: https://minli13.itch.io/bunbunland
 ## Game design document: [Game Design Document.pdf](https://github.com/user-attachments/files/22459013/Game.Design.Document.pdf)
 ## Credits / Attributions:
 This project uses free assets from the Unity Asset Store:
