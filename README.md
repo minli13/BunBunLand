@@ -14,9 +14,9 @@ This project uses free assets from the Unity Asset Store:
 - **Violet Themed UI** by Giniel Villacote  
   [Unity Asset Store Link](https://assetstore.unity.com/packages/2d/gui/violet-themed-ui-235559)  
   Standard Unity Asset Store EULA
-- **Pixel Art Mountains Tileset and Backgrounds** by karsiori
-  [Unity Asset Store Link](https://assetstore.unity.com/packages/2d/textures-materials/pixel-art-mountains-tileset-and-backgrounds-309119#description)
+- **Pixel Art Mountains Tileset and Backgrounds** by karsiori  
+  [Unity Asset Store Link](https://assetstore.unity.com/packages/2d/textures-materials/pixel-art-mountains-tileset-and-backgrounds-309119#description)  
   Standard Unity Asset Store EULA
-- **Simple 2D Platformer Assets Pack** by Goldmetal
-  [Unity Asset Store Link](https://assetstore.unity.com/packages/2d/characters/simple-2d-platformer-assets-pack-188518)
+- **Simple 2D Platformer Assets Pack** by Goldmetal  
+  [Unity Asset Store Link](https://assetstore.unity.com/packages/2d/characters/simple-2d-platformer-assets-pack-188518)  
   Standard Unity Asset Store EULA
